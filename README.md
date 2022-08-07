@@ -50,6 +50,8 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40"
       height="40" /> </a> <a href="http://expressjs.com/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40"
+      height="40" /> </a> <a href="http://mongodb.com/" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="express" width="40"
       height="40" /> </a> </p>
 
 <br>

@@ -54,4 +54,4 @@
 
 <br>
 
-[Manish Tiwari](https://github.com/manishtmtmt)
+[Portfolio: Manish Tiwari](https://manish-tiwari.netlify.app/)

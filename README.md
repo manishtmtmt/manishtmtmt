@@ -12,6 +12,8 @@
 
 - 📫 How to reach me **manisht.mt.mt@gmail.com**
 
+- Know more about myself **https://manish-tiwari.netlify.app/**
+
 - ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
 
 <br>
@@ -21,9 +23,6 @@
   <a href="https://www.linkedin.com/in/wdmanisht/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="wdmanisht" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/manisht_mt_mt" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-      alt="manisht_mt_mt" height="30" width="40" /></a>
  <a href="https://twitter.com/manisht_mt" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
       alt="manisht_mt" height="30" width="40" /></a>
@@ -55,8 +54,6 @@
       height="40" /> </a> </p>
 
 <br>
-
-[Portfolio: Manish Tiwari](https://manish-tiwari.netlify.app/)
 
 <hr/>
 

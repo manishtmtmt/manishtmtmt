@@ -10,6 +10,10 @@
 
 - 🌱 I’m currently learning Full Stack Web Development and other programming languages
 
+- Ambitious and adventures aspiring Full Stack Developer specializing in React, React-Redux, JavaScript, Rest Api and MongoDB. Passionate about coding and learning new technologies, looking forward to working in a reputed company.
+
+- Resume: https://drive.google.com/file/d/15N_ntkWB28D32VMzCC8k-biB7GBMb2ou/view?usp=sharing
+
 - 📫 How to reach me **manisht.mt.mt@gmail.com**
 
 - Know more about myself **https://manish-tiwari.netlify.app/**

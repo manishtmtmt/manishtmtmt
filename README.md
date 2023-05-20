@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manish Tiwari</h1>
-<h3 align="center">Student at Masai School, Bengaluru🌟.</h3>
+<h3 align="center">Associative SDE @ Actyv.ai, Bengaluru🌟.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manishtmtmt&label=Profile%20views&color=0e75b6&style=flat" alt="manishtmtmt" /> </p>
 

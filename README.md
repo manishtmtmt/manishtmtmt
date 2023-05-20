@@ -61,9 +61,9 @@
 
 <hr/>
 
-<div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=manishtmtmt&show_icons=true&locale=en&layout=compact" alt="manishtmtmt" /></div>
-<h1><div align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manishtmtmt&show_icons=true&locale=en" alt="manishtmtmt" /></div></h1>
+<div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=manish-actyv&show_icons=true&locale=en&layout=compact" alt="manishtmtmt" /></div>
+<h1><div align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manish-actyv&show_icons=true&locale=en" alt="manishtmtmt" /></div></h1>
   <h1>
- <div align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manishtmtmt&" alt="manishtmtmt" /></div>
+ <div align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manish-actyv&" alt="manishtmtmt" /></div>
 
 </h1>

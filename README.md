@@ -12,7 +12,7 @@
 
 - Ambitious and adventurous aspiring Full Stack Developer specializing in React, React-Redux, JavaScript, Rest API, and MongoDB. Passionate about coding and learning new technologies, looking forward to working in a reputed company.
 
-- Resume: [Manish Tiwari](https://drive.google.com/file/d/1I6kn7lXAzQBC0f25Hs5BgC8znsIIYKoY/view?usp=sharing)
+- Resume: [Manish Tiwari](https://drive.google.com/file/d/1T3Hke7eM3o0zThDGUbhS_T4vxji-27XB/view?usp=drive_link)
 
 - 📫 How to reach me **manisht.mt.mt@gmail.com**
 

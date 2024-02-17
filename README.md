@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **manisht.mt.mt@gmail.com**
 
-- Know more about myself **[Portfolio](https://manish-portfolio-coral.vercel.app/)**
+- Know more about myself **[Go to my Portfolio](https://manish-portfolio-coral.vercel.app/)**
 
 - ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
 

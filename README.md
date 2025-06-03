@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full stack developer from India</h3>
 
 # 💫 About Me:
-🔭 I’m currently working with Pinaca Technologies<br>👯 I’m looking to collaborate on freelance project<br>🌱 I’m currently learning Next.js, React Native
+🔭 I’m currently working with Algorisys Technologies<br>👯 I’m looking to collaborate on freelance project<br>🌱 I’m currently learning Next.js, React Native
 
 
 ## 🌐 Socials:
